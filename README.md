@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/hoqqeh" target="blank"><img src="https://img.shields.io/twitter/follow/hoqqeh?logo=twitter&style=for-the-badge" alt="hoqqeh" /></a> </p>
 
-- 🔭 I’m Founder at [Security Gate](https://SecurityGate.org) And  [Vulner Gate](https://VulnerGate.ir) And  [IP Validator](https://IPValidator.ir) And Manager at Kalameh Co
+- 🔭 I’m Founder at [Security Gate](https://SecurityGate.org) And  [Vulner Gate](https://VulnerGate.ir) And  [IP Validator](https://IPValidator.ir) And  [Zone-HC](https://zone-hc.ir) And  [dezhkub](https://dezhkub.ir) And Manager at Kalameh Co
 
 - 🌱 I’m currently learning **infosec, programming, network & etc**
 
-- 👨‍💻 All of my projects are available at [https://barnamenevys.ir/#projects](https://barnamenevys.ir/#projects)
-
-- 📝 I regularly write articles on [https://linkeding.com/in/mohammadjafarinia](https://linkeding.com/in/mohammadjafarinia)
+- 📝 I regularly write articles on [https://linkedin.com/in/mohammadjafarinia](https://linkeding.com/in/mohammadjafarinia)
 
 - 💬 Ask me about **Security**
 
